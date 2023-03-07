@@ -1,0 +1,21 @@
+.navbar .mynav {
+    /* display: none; */
+    visibility: hidden;
+}
+
+.navbar .mynav li {
+    display: inline-block;
+}
+
+.navbar .mynav li a {
+    color: #fff;
+    padding: 0 24px;
+    display: block;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+
+
+
